@@ -1,4 +1,4 @@
-# MovieDatabase
+# 📽️🎞️ MovieDatabase
 
 In this project, I worked with a movie database originally based on the “dvdrental” dataset. It was adapted and implemented in MySQL to practice fundamental SQL concepts. The project focused on retrieving specific information from the database, such as listing movies by rating category or displaying complete customer details.
 
