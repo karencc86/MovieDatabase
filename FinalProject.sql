@@ -55,11 +55,6 @@ WHERE
     AND f.title ILIKE '%Egg%';
 
 
-
-
-
-
-
 -- 4 Muestre las películas cuyo actor tiene como nombre ‘Penelope’ , la película tiene
 como tasa de renta 0.99 y un tamaño (length) de 175.
 
@@ -185,13 +180,6 @@ WHERE
 		 WHERE feature LIKE '%Deleted Scenes%'  
             OR feature LIKE '%Behind the Scenes%'
    );			
-
-
-
-
-
-
-
 
 
 -- 10 Muestre todos los clientes que compraron en la tienda 1, y muestre el Nombre,
